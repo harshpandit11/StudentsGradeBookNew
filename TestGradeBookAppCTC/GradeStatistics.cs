@@ -28,13 +28,13 @@ namespace GradebookApplication
             get
             {
                 string result = "";
-                if (AverageGrade >= 90)
+                if (AverageGrade >= 100)
                 {
                     result = "A";
                 }
                 else if (AverageGrade >= 80)
                 {
-                    result = "C";
+                    result = "B";
                 }
                 else if (AverageGrade >= 60)
                 {
