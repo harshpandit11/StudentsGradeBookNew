@@ -34,7 +34,7 @@ namespace GradebookApplication
                 }
                 else if (AverageGrade >= 80)
                 {
-                    result = "B";
+                    result = "C";
                 }
                 else if (AverageGrade >= 60)
                 {
