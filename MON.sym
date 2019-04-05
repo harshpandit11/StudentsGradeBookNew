@@ -1,0 +1,108 @@
+CTC++ sym 9
+Mon Apr  1 20:41:54 2019
+@C:\Users\hpandit\source\repos\GradebookApplication\UnitTests_GradeBookApp\GradeBookTestsClass.cs
+7 1554131514 8238BBBA 0 0
+0 15 0 0 0 GradeBookTestsClass::ValidateLetterGradeA
+90 0 0 0 0 ( )
+1 25 6 0 0 GradeBookTestsClass::ValidateLetterGradeA
+0 27 0 1 0 GradeBookTestsClass::ValidateLetterGradeAMarksgreaterthan100
+90 0 0 0 0 ( )
+1 37 6 1 0 GradeBookTestsClass::ValidateLetterGradeAMarksgreaterthan100
+0 39 0 2 0 GradeBookTestsClass::ValidateLetterGradeB
+90 0 0 0 0 ( )
+1 47 6 2 0 GradeBookTestsClass::ValidateLetterGradeB
+0 49 0 3 0 GradeBookTestsClass::ValidateLetterGradeC
+90 0 0 0 0 ( )
+1 57 6 3 0 GradeBookTestsClass::ValidateLetterGradeC
+0 59 0 4 0 GradeBookTestsClass::ValidateLetterGradeCEdgeCase
+90 0 0 0 0 ( )
+1 67 6 4 0 GradeBookTestsClass::ValidateLetterGradeCEdgeCase
+0 69 0 5 0 GradeBookTestsClass::ValidateLetterGradeD
+90 0 0 0 0 ( )
+1 77 6 5 0 GradeBookTestsClass::ValidateLetterGradeD
+0 79 0 6 0 GradeBookTestsClass::ValidateLetterGradeDEdgeCase
+90 0 0 0 0 ( )
+1 87 6 6 0 GradeBookTestsClass::ValidateLetterGradeDEdgeCase
+0 89 0 7 0 GradeBookTestsClass::ValidateLetterGradeF
+90 0 0 0 0 ( )
+1 97 6 7 0 GradeBookTestsClass::ValidateLetterGradeF
+0 99 0 8 0 GradeBookTestsClass::ValidateLetterGradeFEdgeCase
+90 0 0 0 0 ( )
+1 107 6 8 0 GradeBookTestsClass::ValidateLetterGradeFEdgeCase
+0 109 0 9 0 GradeBookTestsClass::ValidateLetterGradeFEdgeCase2
+90 0 0 0 0 ( )
+1 117 6 9 0 GradeBookTestsClass::ValidateLetterGradeFEdgeCase2
+0 121 0 10 0 GradeBookTestsClass::ValidateComputeStatisticsForHighestGrade
+90 0 0 0 0 ( )
+1 130 5 10 0 GradeBookTestsClass::ValidateComputeStatisticsForHighestGrade
+0 132 0 11 0 GradeBookTestsClass::ValidateComputeStatisticsForAverageGrade
+90 0 0 0 0 ( )
+1 140 5 11 0 GradeBookTestsClass::ValidateComputeStatisticsForAverageGrade
+0 142 0 12 0 GradeBookTestsClass::ValidateComputeStatisticsForLowestGrade
+90 0 0 0 0 ( )
+1 150 5 12 0 GradeBookTestsClass::ValidateComputeStatisticsForLowestGrade
+%156,13,13,0,0,0
+@C:\Users\hpandit\source\repos\GradebookApplication\UnitTests_GradeBookApp\obj\Debug\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+7 1554131514 2EA193AA 0 0
+%1,0,0,0,0,0
+@C:\Users\hpandit\source\repos\GradebookApplication\UnitTests_GradeBookApp\Properties\AssemblyInfo.cs
+7 1554131514 7318A9C6 0 0
+%20,0,0,0,0,0
+@C:\Users\hpandit\source\repos\GradebookApplication\UnitTests_GradeBookApp\obj\Debug\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+7 1554131514 2EA193AA 0 0
+%1,0,0,0,0,0
+@C:\Users\hpandit\source\repos\GradebookApplication\UnitTests_GradeBookApp\UnitTestsForStudyReferenceTypes\UnitTestsReferenceTypes.cs
+7 1554131514 42D212AB 0 0
+0 15 0 0 0 UnitTestsReferenceTypes::TestingReferenceTypesBehave_2ObjsPointToSameMemoryLocation
+90 0 0 0 0 ( )
+1 23 4 0 0 UnitTestsReferenceTypes::TestingReferenceTypesBehave_2ObjsPointToSameMemoryLocation
+0 26 0 1 0 UnitTestsReferenceTypes::TestingReferenceTypesBehave_2ObjsNotPointToSameMemoryLocation
+90 0 0 0 0 ( )
+1 33 5 1 0 UnitTestsReferenceTypes::TestingReferenceTypesBehave_2ObjsNotPointToSameMemoryLocation
+0 36 0 2 0 UnitTestsReferenceTypes::TestingReferenceTypesBehave_MultipleObjsPointToSameMemoryLocation
+90 0 0 0 0 ( )
+1 50 8 2 0 UnitTestsReferenceTypes::TestingReferenceTypesBehave_MultipleObjsPointToSameMemoryLocation
+0 52 0 3 0 UnitTestsReferenceTypes::TestingReferenceTypesBehave_MultipleObjsPointToSameMemoryLocationWithChangingValues
+90 0 0 0 0 ( )
+1 64 9 3 0 UnitTestsReferenceTypes::TestingReferenceTypesBehave_MultipleObjsPointToSameMemoryLocationWithChangingValues
+0 67 0 4 0 UnitTestsReferenceTypes::TestingReferenceTypesBehave_ObjsPointingChangedToAnotherMemoryLocation
+90 0 0 0 0 ( )
+1 78 7 4 0 UnitTestsReferenceTypes::TestingReferenceTypesBehave_ObjsPointingChangedToAnotherMemoryLocation
+0 81 0 5 0 UnitTestsReferenceTypes::ValueTypesComparison
+90 0 0 0 0 ( )
+1 88 4 5 0 UnitTestsReferenceTypes::ValueTypesComparison
+0 90 0 6 0 UnitTestsReferenceTypes::ValueTypesComparisonMultipleAssignment
+90 0 0 0 0 ( )
+1 98 6 6 0 UnitTestsReferenceTypes::ValueTypesComparisonMultipleAssignment
+0 101 0 7 0 UnitTestsReferenceTypes::ValueTypesComparisonMultipleAssignmentsPart2
+90 0 0 0 0 ( )
+1 111 7 7 0 UnitTestsReferenceTypes::ValueTypesComparisonMultipleAssignmentsPart2
+%113,8,8,0,0,0
+@C:\Users\hpandit\source\repos\GradebookApplication\UnitTests_GradeBookApp\StringComparisonTests\StringCompare.cs
+7 1554131514 904B7A74 0 0
+0 14 0 0 0 StringCompare::StringComparison
+90 0 0 0 0 ( )
+1 23 4 0 0 StringCompare::StringComparison
+%25,1,1,0,0,0
+@C:\Users\hpandit\source\repos\GradebookApplication\UnitTests_GradeBookApp\MethodsUnitTests\PassingParametersToMethods.cs
+7 1554131514 087292E1 0 0
+0 15 0 0 0 PassingParametersToMethods::PassingParametersByReference
+90 0 0 0 0 ( )
+1 22 4 0 0 PassingParametersToMethods::PassingParametersByReference
+0 24 0 1 0 PassingParametersToMethods::GiveBookAName
+90 0 0 0 0 ( GradeBook book )
+1 27 1 1 0 PassingParametersToMethods::GiveBookAName
+0 30 0 2 0 PassingParametersToMethods::PassingParametersByReferenceButUsingArrays
+90 0 0 0 0 ( )
+1 40 5 2 0 PassingParametersToMethods::PassingParametersByReferenceButUsingArrays
+0 42 0 3 0 PassingParametersToMethods::AddGrades
+90 0 0 0 0 ( float [ ] grades )
+1 47 3 3 0 PassingParametersToMethods::AddGrades
+0 50 0 4 0 PassingParametersToMethods::PassingParametersByReferenceButUsingArraysScenario2
+90 0 0 0 0 ( )
+1 60 6 4 0 PassingParametersToMethods::PassingParametersByReferenceButUsingArraysScenario2
+%62,5,5,0,0,0
+@C:\Users\hpandit\source\repos\GradebookApplication\UnitTests_GradeBookApp\obj\Debug\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
+7 1554131514 2EA193AA 0 0
+%1,0,0,0,0,0
+END OF SYMBOLFILE
