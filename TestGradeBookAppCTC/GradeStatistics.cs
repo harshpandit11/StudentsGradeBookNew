@@ -23,7 +23,7 @@ namespace GradebookApplication
         public double Aggregate;
         public double FailureGrade;
 
-        public string LetterGrade
+        public string LetterGrades
         {
             get
             {
@@ -54,7 +54,7 @@ namespace GradebookApplication
         {
             get
             {
-                switch (LetterGrade)
+                switch (LetterGrades)
                 {
                     case "A":
                         Console.WriteLine("Excellent you have a A Grade");
@@ -75,7 +75,7 @@ namespace GradebookApplication
                         break;
 
                 }
-                return LetterGrade;
+                return LetterGrades;
 
             }
         }

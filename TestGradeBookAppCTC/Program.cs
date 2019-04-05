@@ -52,7 +52,7 @@ namespace GradebookApplication
             /*In this case both the objs of gradebook will point to the same memory location on heap
              */
             WriteTheResultToConsole("The Average Marks are", gradesOfStudents.AverageGrade);
-            WriteTheResultToConsole("So the grade is", gradesOfStudents.LetterGrade);
+            WriteTheResultToConsole("So the grade is", gradesOfStudents.LetterGrades);
             WriteTheResultToConsole("The Highest marks scored are", Convert.ToInt64(gradesOfStudents.HighestGrade));
             WriteTheResultToConsole("The aggregate marks are", gradesOfStudents.Aggregate);
             WriteTheResultToConsole("The Lowest Marks scored are", gradesOfStudents.LowestGrade);
