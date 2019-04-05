@@ -1,0 +1,32 @@
+CTC++ sym 9
+Mon Apr  1 20:41:54 2019
+@C:\Users\hpandit\source\repos\GradeBookAppCTC\Polymorphism_Example\Program.cs
+7 1554131514 8336726A 0 0
+0 12 0 0 0 PartTimeEmp::PrintFullName
+90 0 0 0 0 ( )
+1 17 3 0 0 PartTimeEmp::PrintFullName
+0 21 0 1 0 FullTimeEmp::PrintFullName
+90 0 0 0 0 ( )
+1 26 3 1 0 FullTimeEmp::PrintFullName
+0 34 0 2 0 Employee::PrintFullName
+90 0 0 0 0 ( )
+1 39 3 2 0 Employee::PrintFullName
+0 40 0 3 0 Employee::Main
+90 0 0 0 0 ( string [ ] args )
+104 47 4 3 1 var emp in employees
+3 50 5 0 1
+1 54 6 4 0 Employee::Main
+%56,4,5,0,0,0
+@C:\Users\hpandit\source\repos\GradeBookAppCTC\Polymorphism_Example\obj\Debug\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+7 1554131514 2EA193AA 0 0
+%1,0,0,0,0,0
+@C:\Users\hpandit\source\repos\GradeBookAppCTC\Polymorphism_Example\obj\Debug\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+7 1554131514 2EA193AA 0 0
+%1,0,0,0,0,0
+@C:\Users\hpandit\source\repos\GradeBookAppCTC\Polymorphism_Example\obj\Debug\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
+7 1554131514 2EA193AA 0 0
+%1,0,0,0,0,0
+@C:\Users\hpandit\source\repos\GradeBookAppCTC\Polymorphism_Example\Properties\AssemblyInfo.cs
+7 1554131514 8B8AB5D7 0 0
+%36,0,0,0,0,0
+END OF SYMBOLFILE
