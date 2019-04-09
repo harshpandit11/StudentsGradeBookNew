@@ -59,7 +59,15 @@ namespace GradebookApplication
                 }
 
             }
-            Console.WriteLine($"You have failed in {countoffailures} subjects as the marks are less than 35");
+            if (countoffailures <=0)
+            {
+                Console.WriteLine("Great ,you have not failed in any of the subjects");
+            }
+            else
+            {
+                Console.WriteLine($"You have failed in {countoffailures} subjects as the marks are less than 35");
+            }
+            
             return stats;
         }
 
