@@ -11,7 +11,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSHARP_Fundamentals_PluralS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polymorphism_Example", "Polymorphism_Example\Polymorphism_Example.csproj", "{5E58ABCD-323D-4C69-AD84-69078E6CA558}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RockBandApplication", "..\..\..\..\..\PLURALSIGHT_BANDANNOUNCEAPP\RockBandApplication\RockBandApplication.csproj", "{617F4E9D-B014-4F51-A466-4438AADB1E13}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RockBandApplication_NOTGIT", "..\..\..\..\..\PLURALSIGHT_BANDANNOUNCEAPP\RockBandApplication\RockBandApplication_NOTGIT.csproj", "{617F4E9D-B014-4F51-A466-4438AADB1E13}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RockBandApplication", "..\PluralSightRockBandApp\RockBandApplication.csproj", "{227C265A-1A09-47E3-BFA3-E78647281D15}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{617F4E9D-B014-4F51-A466-4438AADB1E13}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{617F4E9D-B014-4F51-A466-4438AADB1E13}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{617F4E9D-B014-4F51-A466-4438AADB1E13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{227C265A-1A09-47E3-BFA3-E78647281D15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{227C265A-1A09-47E3-BFA3-E78647281D15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{227C265A-1A09-47E3-BFA3-E78647281D15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{227C265A-1A09-47E3-BFA3-E78647281D15}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
